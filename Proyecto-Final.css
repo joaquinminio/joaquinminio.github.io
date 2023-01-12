@@ -1,0 +1,86 @@
+
+body{
+    background-color: rgba(54, 68, 59, 0.897);
+}
+
+*{
+    font-family: 'Kanit', sans-serif;
+ }
+
+ h1 {
+    font-size: 70px;
+    padding: 5px;
+    margin: 5px;
+ }
+ #imagen{
+    width: 30%;
+    float: right;
+ }
+
+
+ section {
+    width: 100px;
+    border: 10px solid rgb(36, 37, 36);
+    padding: 5px;
+    margin: 5px;
+    background-color: rgba(159, 180, 161, 0.733);
+    width: 65%;
+}
+
+
+ #link {
+    width: 830px;
+    border: 5px solid rgb(36, 37, 36);
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(159, 180, 161, 0.733);
+    width: 65%;
+} 
+
+#PerfilProfesional {
+    width: 1300px;
+    border: 5px solid rgb(36, 37, 36);
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(159, 180, 161, 0.733); 
+    width: 65%;
+}
+
+
+#Recuadros {
+    width: 400px;
+    border: 5px solid rgb(36, 37, 36);
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(159, 180, 161, 0.733); 
+}
+
+.veneto {
+    display: none;
+}
+.mostrarveneto{
+    display: block;
+}
+
+.libreria{
+    display: none;
+}
+.mostrarlibreria{
+    display: block;
+}
+
+.lavanguardia{
+    display: none;
+}
+.mostrarlavanguardia{
+    display: block;
+}
+
+
+
+.secundario{
+    display: none;
+}
+.mostrarsecundario{
+    display: block;
+}
